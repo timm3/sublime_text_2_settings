@@ -1,0 +1,22 @@
+{
+	"caret_style": "wide",
+	"color_scheme": "Packages/Color Scheme - Custom/DarkPop.tmTheme",
+	"draw_minimap_border": true,
+	"draw_white_space": "all",
+	"fade_fold_buttons": false,
+	"font_face": "Consolas",
+	"font_size": 8,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_padding_top": 1,
+	"match_brackets_angle": true,
+	"rulers":
+	[
+		90
+	]
+}
