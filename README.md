@@ -1,6 +1,7 @@
 # sublime_text_2_settings
 Theme Files and Editor(User level) Preferences
-
+----------
+----------
 
 Theme files, *.tmtheme, are place in 
 
